@@ -159,6 +159,9 @@ export default {
       border: 0,
       borderBottom: '1px solid',
       borderColor: 'muted',
+    },
+    img: {
+      maxWidth: '100%'
     }
   },
   prism: {
